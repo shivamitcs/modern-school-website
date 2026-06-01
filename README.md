@@ -1,4 +1,4 @@
-# 🎓 SCHOOL IFORMATION PLATFORM
+# 🎓 SCHOOL INFORMATION PLATFORM
 
 ![Angular](https://img.shields.io/badge/Angular-19-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
@@ -26,7 +26,7 @@ A modern educational information and admissions platform designed to streamline 
 
 ## Platform Vision
 
-PUSHTI School is a modern digital education platform built to provide an engaging online experience for students, parents, visitors, and school administrators.
+The platform is a modern digital education platform built to provide an engaging online experience for students, parents, visitors, and school administrators.
 
 The platform combines institutional information, admission workflows, academic communication, media galleries, and multilingual content delivery into a unified educational ecosystem that enhances accessibility, engagement, and communication.
 
@@ -131,31 +131,9 @@ These limitations can reduce engagement, slow administrative processes, and make
 
 ## Solution
 
-PUSHTI School centralizes admissions, communication, announcements, content publishing, galleries, and institutional information into a single digital platform.
+The platform centralizes admissions, communication, announcements, content publishing, galleries, and institutional information into a single digital platform.
 
 The solution improves accessibility, enhances parent engagement, streamlines communication workflows, and modernizes the school's digital presence.
-
----
-
-## Platform Architecture
-
-The platform follows a scalable component-driven architecture designed for educational institutions, multilingual content management, responsive user experiences, and seamless communication workflows.
-
-```text
-Students / Parents / Visitors
-                │
-                ▼
-        Angular 19 Frontend
-                │
-                ▼
-      Content Management Layer
-                │
-                ▼
-           Backend APIs
-                │
-                ▼
-        Database & Storage
-```
 
 ---
 
@@ -353,7 +331,7 @@ assets/
 
 # Engineering Vision
 
-PUSHTI School represents a modern educational platform engineered to improve communication, admissions, content management, and digital engagement for educational institutions.
+The platform represents a modern educational platform engineered to improve communication, admissions, content management, and digital engagement for educational institutions.
 
 The platform focuses on accessibility, user experience, multilingual communication, and scalable frontend architecture.
 
@@ -363,7 +341,7 @@ The platform focuses on accessibility, user experience, multilingual communicati
 
 Educational institutions need modern digital experiences that simplify communication, streamline admissions, and improve accessibility for students and parents.
 
-PUSHTI School was developed to provide a centralized platform that modernizes school communication, information delivery, and educational engagement through a responsive digital experience.
+The platform  was developed to provide a centralized platform that modernizes school communication, information delivery, and educational engagement through a responsive digital experience.
 
 ---
 
