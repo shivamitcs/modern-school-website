@@ -11,6 +11,12 @@ A modern educational information and admissions platform designed to streamline 
 
 ---
 
+<p align="center">
+  <img src="./assets/branding/school-information-platform-banner.png" width="100%" alt="School Information Platform Banner"/>
+</p>
+
+---
+
 ## 🌐 Live Platform
 
 * Website: https://pushtischool.in/
@@ -207,7 +213,7 @@ Students / Parents / Visitors
 The platform follows a scalable component-driven architecture designed for educational institutions, multilingual content management, responsive user experiences, and seamless communication workflows.
 
 <p align="center">
-  <img src="./assets/architecture/system-architecture.png" width="100%" alt="School Information Platform Architecture"/>
+  <img src="./assets/architecture/school-platform-architecture.png" width="100%" alt="School Information Platform Architecture"/>
 </p>
 
 ---
