@@ -1,4 +1,4 @@
-# 🎓 SCHOOL INFORMATION PLATFORM
+# 🎓 MODERN SCHOOL WEBSITE
 
 ![Angular](https://img.shields.io/badge/Angular-19-red)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
@@ -7,7 +7,7 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Ready-success)
 ![Status](https://img.shields.io/badge/Status-Production-success)
 
-A modern educational information and admissions platform designed to streamline institutional communication, digital admissions, content publishing, announcements, galleries, and multilingual engagement for students, parents, and visitors.
+A modern school website designed to streamline digital admissions, institutional communication, content publishing, announcements, galleries, and multilingual engagement for students, parents, and visitors.
 
 ---
 
