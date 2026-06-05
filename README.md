@@ -12,7 +12,7 @@ A modern school website designed to streamline digital admissions, institutional
 ---
 
 <p align="center">
-  <img src="./assets/branding/morden-school-website-banner.png" width="100%" alt="School Information Platform Banner"/>
+  <img src="./assets/branding/modern-school-website-banner.png" width="100%" alt="School Information Platform Banner"/>
 </p>
 
 ---
@@ -191,7 +191,7 @@ The solution improves accessibility, enhances parent engagement, streamlines com
 The platform follows a scalable component-driven architecture designed for educational institutions, multilingual content management, responsive user experiences, and seamless communication workflows.
 
 <p align="center">
-  <img src="./assets/architecture/morden-school-website-architecture.png" width="100%" alt="School Information Platform Architecture"/>
+  <img src="./assets/architecture/modern-school-website-architecture.png" width="100%" alt="School Information Platform Architecture"/>
 </p>
 
 ---
